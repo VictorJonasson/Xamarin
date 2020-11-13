@@ -1,0 +1,14 @@
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csprojAssemblyReference.cache
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.deps.json
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.dll
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\bin\Debug\netstandard2.0\Xamarin.pdb
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Views\CreateTodo.xaml.g.cs
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Views\ListTodo.xaml.g.cs
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.AssemblyInfo.cs
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.dll
+C:\Users\jonas\Desktop\Projekt\Xamarin\Xamarin\Xamarin\obj\Debug\netstandard2.0\Xamarin.pdb

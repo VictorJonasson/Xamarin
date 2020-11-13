@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ToDoApp.Views"
+             x:Class="ToDoApp.Views.CreateTodo">
+    
+    <!--<StackLayout Margin="20" VerticalOptions="StartAndExpand">
+        <Label Text="Имя" />
+        <Entry Text="{Binding Task}" />
+        <Label Text="Task" />
+        <Entry Text="{Binding Description}" />
+        <Label Text="Select status of current Task" FontSize="Micro"/>
+        <Entry Text="{Binding Status}" />
+        
+        <Button Text="Save" Clicked="OnSaveClicked" />
+        <Button Text="Delete" Clicked="OnDeleteClicked" /> 
+    </StackLayout>-->
+</ContentPage>
